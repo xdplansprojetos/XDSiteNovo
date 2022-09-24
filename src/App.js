@@ -12,7 +12,8 @@ import Home from './views/Home';
 
 
 // Initialize Google Analytics
-ReactGA.initialize(process.env.REACT_APP_GA_CODE);
+//ReactGA.initialize(process.env.REACT_APP_GA_CODE);
+ReactGA.initialize('G-SKWD7D2PLE');
 
 const trackPage = page => {
   ReactGA.set({ page });
