@@ -65,7 +65,7 @@ const Hero = ({
             </h1>
             <div className="container-xs">
               <p className="m-0 mb-32 reveal-from-bottom" data-reveal-delay="400">
-                Our landing page template works on all devices, so you only have to set it up once, and get beautiful results forever.
+              A DX Designer começou em 2012 com foco em criação de páginas HTML/CSS, mas se especializou na area de Marketing Digital, desde então estamos desenvolvendo novos sites a cada dia com a Plataforma WordPress, Magento e outros, hoje somos a XD Plans especizada em JavaScript e Novas Tecnologias do Mercado como React JS e React Native.
                 </p>
               <div className="reveal-from-bottom" data-reveal-delay="600">
                 <ButtonGroup>
