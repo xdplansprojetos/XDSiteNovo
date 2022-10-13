@@ -72,8 +72,8 @@ const Hero = ({
                   <Button tag="a" color="primary" wideMobile href="tel:+5511961477718">
                     Ligue Agora
                     </Button>
-                  <Button tag="a" color="dark" wideMobile href="#">
-                    View on Github
+                  <Button tag="a" color="dark" wideMobile href="https://github.com/xdplansprojetos">
+                    Veja no Github
                     </Button>
                 </ButtonGroup>
               </div>
