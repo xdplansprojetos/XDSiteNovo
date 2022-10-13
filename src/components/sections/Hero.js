@@ -70,7 +70,7 @@ const Hero = ({
               <div className="reveal-from-bottom" data-reveal-delay="600">
                 <ButtonGroup>
                   <Button tag="a" color="primary" wideMobile href="tel:+5511961477718">
-                    Get started
+                    Ligue Agora
                     </Button>
                   <Button tag="a" color="dark" wideMobile href="#">
                     View on Github
