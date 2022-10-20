@@ -58,8 +58,11 @@ const Hero = ({
       className={outerClasses}
     >
       <div className="container-sm">
+        
         <div className={innerClasses}>
+          
           <div className="hero-content">
+          
             <h1 className="mt-0 mb-16 reveal-from-bottom" data-reveal-delay="200">
               XD Plans <span className="text-color-primary">Developers</span>
             </h1>
