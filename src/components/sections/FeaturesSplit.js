@@ -68,13 +68,13 @@ const FeaturesSplit = ({
               <div className="split-item-content center-content-mobile reveal-from-left" data-reveal-container=".split-item">
                 <div className="text-xxs text-color-primary fw-600 tt-u mb-8">
                   Desenvolvimento com agilidade.
-                  </div>
+                </div>
                 <h3 className="mt-0 mb-12">
                   Criação de Site
-                  </h3>
+                </h3>
                 <p className="m-0">
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua — Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-                  </p>
+                  Desenvolvimento de sites com linguagem totalmente atuais e responsivos (que se adequam para utilização em smartphones, tablets, computadores e notebooks) com layout moderno, prático e focado na geração de resultados necessários, visando o desenvolvimento de métricas e acompanhamento.
+                </p>
               </div>
               <div className={
                 classNames(
@@ -92,15 +92,15 @@ const FeaturesSplit = ({
 
             <div className="split-item">
               <div className="split-item-content center-content-mobile reveal-from-right" data-reveal-container=".split-item">
-                <div className="text-xxs text-color-primary fw-600 tt-u mb-8">
-                  Lightning fast workflow
-                  </div>
+                <div className="text-xxs  text-color-primary fw-600 tt-u mb-8">
+                  Venda Online Sem Precisar de Funcionario
+                </div>
                 <h3 className="mt-0 mb-12">
                   Criação de Loja Virtual
-                  </h3>
+                </h3>
                 <p className="m-0">
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua — Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-                  </p>
+                  Disponibilize produtos para vendas on-line. Temos a solução completa para uma loja virtual que visa atender a real necessidade do cliente. Algumas características do sistema: Fácil administração, segurança de dados, soluções de pagamento, otimização (SEO), cálculo de frete (Correios), e design personalizado.
+                </p>
               </div>
               <div className={
                 classNames(
@@ -120,13 +120,13 @@ const FeaturesSplit = ({
               <div className="split-item-content center-content-mobile reveal-from-left" data-reveal-container=".split-item">
                 <div className="text-xxs text-color-primary fw-600 tt-u mb-8">
                   Lightning fast workflow
-                  </div>
+                </div>
                 <h3 className="mt-0 mb-12">
                   Criação de Aplicativo
-                  </h3>
+                </h3>
                 <p className="m-0">
                   Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua — Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-                  </p>
+                </p>
               </div>
               <div className={
                 classNames(

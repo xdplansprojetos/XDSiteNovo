@@ -41,6 +41,7 @@ const App = () => {
         <Switch>
           <AppRoute exact path="/" component={Home} layout={LayoutDefault} />
           <AppRoute exact path="/contato" component={Contato} layout={LayoutDefault} />
+          <AppRoute exact path="/criacao-de-site" component={Contato} layout={LayoutDefault} />
         </Switch>
       )} />
   );
