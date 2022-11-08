@@ -120,7 +120,7 @@ const Header = ({
                       className="list-reset header-nav-right"
                     >
                       <li>
-                        <Link to="#0" className="button button-primary button-wide-mobile button-sm" onClick={closeMenu}>Sign up</Link>
+                        <Link to="https://api.whatsapp.com/send?phone=5511961477718&text=Quero%20saber%20mais!" className="button button-primary button-wide-mobile button-sm" onClick={closeMenu}>WhatsApp</Link>
                       </li>
                     </ul>}
                 </div>

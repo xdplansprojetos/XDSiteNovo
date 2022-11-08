@@ -45,7 +45,7 @@ const FeaturesTiles = ({
 
   const sectionHeader = {
     title: 'Nossos Serviços',
-    paragraph: 'Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum — semper quis lectus nulla at volutpat diam ut venenatis.'
+    paragraph: 'Criatividade é só conectar coisas. Quando você pergunta a pessoas criativas como elas fizeram algo, elas geralmente se sentem um pouco culpadas porque elas não fizeram aquilo realmente, elas apenas viram alguma coisa.'
   };
 
   return (
