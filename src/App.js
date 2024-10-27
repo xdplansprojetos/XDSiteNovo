@@ -10,6 +10,7 @@ import LayoutDefault from './layouts/LayoutDefault';
 // Views  !!!
 import Home from './views/Home';
 import Contato from './views/Contato';
+import Thais from './views/Thais';
 
 
 // Initialize Google Analytics
@@ -42,6 +43,8 @@ const App = () => {
           <AppRoute exact path="/" component={Home} layout={LayoutDefault} />
           <AppRoute exact path="/contato" component={Contato} layout={LayoutDefault} />
           <AppRoute exact path="/criacao-de-site" component={Contato} layout={LayoutDefault} />
+          <AppRoute exact path="/thais" component={Thais} layout={LayoutDefault} />
+          
         </Switch>
       )} />
   );

@@ -1,0 +1,28 @@
+.calendar-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+  }
+  
+  .date-picker {
+    flex: 1;
+    margin-right: 20px; /* Espaço entre o DatePicker e a lista */
+    text-align: center;
+  }
+  
+  .post-list {
+    flex: 1;
+  }
+  
+  .highlighted-post {
+    background-color: green !important;
+    color: white;
+    padding: 5px;
+    border-radius: 4px;
+  }
+  
+  .completed-post {
+    text-decoration: line-through;
+    color: gray;
+  }
+  

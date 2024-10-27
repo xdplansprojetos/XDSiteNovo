@@ -6,6 +6,7 @@
     "classnames": "^2.2.6",
     "lodash": "^4.17.15",
     "react": "^16.13.1",
+    "react-datepicker": "^7.5.0",
     "react-dom": "^16.13.1",
     "react-ga": "^2.7.0",
     "react-hook-form": "^7.38.0",
